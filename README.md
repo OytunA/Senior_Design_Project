@@ -37,10 +37,10 @@ If it is desired, multiple items can be observed at the same time by entering "i
 
 Credits
 
-Onuralp Aslaner
-Ahmet Eralp Avunduk
-Oytun Sabri Avunduk
-Derviş Murat Bahçenli
-İrem Kuş
+Onuralp Aslaner,
+Ahmet Eralp Avunduk,
+Oytun Sabri Avunduk,
+Derviş Murat Bahçenli,
+İrem Kuş,
 Alp Tolga Yakıncı
 :
